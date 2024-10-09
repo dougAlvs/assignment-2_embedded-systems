@@ -1,0 +1,5 @@
+Adafruit-SSD1306==1.6.2
+RPi.GPIO==0.7.1
+bmp280==1.0.0
+pyserial==3.5
+pillow==10.4.0

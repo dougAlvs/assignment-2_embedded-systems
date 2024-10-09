@@ -1,0 +1,70 @@
+{
+    "elevador_1": {
+        "outputs": [
+            {
+                "tag": "DIR1",
+                "gpio": 20
+            },
+            {
+                "tag": "DIR2",
+                "gpio": 21
+            },
+            {
+                "tag": "POTM",
+                "gpio": 12
+            }
+        ],
+        "inputs": [
+            {
+                "tag": "SENSOR_TERREO",
+                "gpio": 18
+            },
+            {
+                "tag": "SENSOR_1_ANDAR",
+                "gpio": 23
+            },
+            {
+                "tag": "SENSOR_2_ANDAR",
+                "gpio": 24
+            },
+            {
+                "tag": "SENSOR_3_ANDAR",
+                "gpio": 25
+            }
+        ]
+    },
+    "elevador_2": {
+        "outputs": [
+            {
+                "tag": "DIR1",
+                "gpio": 19
+            },
+            {
+                "tag": "DIR2",
+                "gpio": 26
+            },
+            {
+                "tag": "POTM",
+                "gpio": 13
+            }
+        ],
+        "inputs": [
+            {
+                "tag": "SENSOR_TERREO",
+                "gpio": 17
+            },
+            {
+                "tag": "SENSOR_1_ANDAR",
+                "gpio": 27
+            },
+            {
+                "tag": "SENSOR_2_ANDAR",
+                "gpio": 22
+            },
+            {
+                "tag": "SENSOR_3_ANDAR",
+                "gpio": 6
+            }
+        ]
+    }
+}
